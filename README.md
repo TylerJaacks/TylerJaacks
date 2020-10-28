@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with on my project XBONEmu an Xbox One "Emulator" for Windows 10
 - 💬 Ask me about Physics and Computer Science.
-- 📫 How to reach me: tylerjaacks@gmail.com, tjaacks@iastate.edu, and tyler.jaacks@thomsonreuters.com
+- 📫 How to reach me: tylerjaacks@gmail.com or tjaacks@iastate.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing Video Games.
