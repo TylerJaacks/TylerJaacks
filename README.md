@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tyler Jaacks.
-- 🔭 I’m currently working at Telligen as a Software Engineer.
+- 🔭 I’m currently looking for work as a Software Engineer.
 - 🌱 I’m currently learning game engine development, low level graphics, low level systems, and reverse engineering.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with my project WinDurango, the first Xbox One compatibility layer for Windows.
