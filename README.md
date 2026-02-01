@@ -7,3 +7,5 @@
 - 📫 How to reach me: TylerJaacks@Gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have never broken a bone.
+
+わたしは日本語を勉強します
